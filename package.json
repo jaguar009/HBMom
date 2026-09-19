@@ -1,0 +1,8 @@
+{
+  "name": "para-ti-mama",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Homenaje de cumpleaños para María del Pilar Peralta Ramírez",
+  "scripts": { "start": "node server.mjs", "check": "node --check app.js && node --check content.js && node --check server.mjs" },
+  "engines": { "node": ">=20" }
+}
