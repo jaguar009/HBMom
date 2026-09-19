@@ -20,7 +20,7 @@ Este paquete **no se ha publicado ni se ha conectado a una cuenta de GitHub**. E
 
 ## Personalizar
 
-- `content.js`: párrafos de la carta, firma, deseos, cinco hitos y cronología extensa.
+- `content.js`: párrafos de la carta, firma, deseos, seis hitos y cronología extensa.
 - `index.html`: nombre, títulos y textos de portada. No se fijó edad ni fecha de cumpleaños.
 - `styles.css`: colores y adaptación responsive. Usa fuentes del sistema, sin descargas externas.
 - `assets/`: imágenes creadas para este homenaje. No contienen un retrato de la homenajeada. Si se desea incorporar una fotografía familiar, puede añadirse posteriormente.
@@ -29,9 +29,11 @@ Los enlaces de fuentes se abren en otra pestaña. No hay analítica, cookies, fo
 
 ## Contenido profesional
 
-La fuente de trabajo es el PDF aportado por el usuario, `Deep Research Backing Conversation for session None.pdf`, 16 páginas, corte de investigación del 18 de septiembre de 2026. Se distingue el contenido factual de la dedicatoria familiar. No se realizó una nueva investigación ni se atribuyen grados, premios, edad, fecha de nacimiento o cargo vigente que el informe no confirma.
+La fuente inicial de trabajo es el PDF aportado por el usuario, `Deep Research Backing Conversation for session None.pdf`, 16 páginas, con corte de investigación del 18 de septiembre de 2026. El sitio se amplió después con investigación web el 19 de septiembre de 2026. El archivo `INVESTIGACION-PUBLICA.md` contiene el detalle de los hallazgos y enlaces. Se distingue el contenido factual de la dedicatoria familiar. No se atribuyen grados, premios, edad, fecha de nacimiento o cargo vigente que las fuentes no confirman.
 
-La cronología extendida incluye el proceso de ratificación de 2002–2004 y la secuencia del caso Sodalicio de 2015–2017 con la revisión superior y la incertidumbre sobre el desenlace disciplinario. La portada presenta una selección de cargos históricos. No se sugiere ejercicio ininterrumpido ni que una adscripción de 2021 sea el cargo actual. El PDF original no se distribuye en el repositorio.
+La cronología extendida incluye la designación de 1999 como Fiscal Ad Hoc para investigaciones y procesos por terrorismo, la confirmación normativa de esa función en 2000, la referencia periodística de 2001 como fiscal antiterrorismo, el proceso de ratificación de 2002–2004 y la secuencia del caso Sodalicio de 2015–2017 con la revisión superior y la incertidumbre sobre el desenlace disciplinario. La portada presenta una selección de cargos históricos. No se sugiere ejercicio ininterrumpido ni que una adscripción de 2021 sea el cargo actual. El PDF original no se distribuye en el repositorio.
+
+La investigación web adicional consultó la Resolución 148-99-MP-CEMP publicada en una reproducción de El Peruano, las Resoluciones 168-2000-MP-CEMP y 704-2000-MP-CEMP, una resolución de ratificación del CNM de 2007, Tribunal Constitucional y la entrevista de El Comercio sobre Mesa Redonda. La fórmula más precisa es: **Fiscal Provincial Titular de la 28.ª Fiscalía Provincial Penal de Lima y Fiscal Ad Hoc para investigaciones y procesos por terrorismo**. “Fiscal antiterrorismo” aparece como descripción periodística de 2001; “fiscal especializada” aparece en algunas referencias secundarias, pero la landing prioriza la denominación normativa.
 
 ## Imágenes
 

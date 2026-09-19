@@ -9,6 +9,6 @@ Publica esta landing de cumpleaños para mi mamá, María del Pilar Peralta Ram�
 5. Verifica la URL pública: imágenes, estilos, selección de años, carta, cierre con Escape, cronología y botón de celebración, también en móvil.
 6. Devuélveme el enlace del repositorio y la URL pública del homenaje.
 
-Conserva la dedicatoria y el diseño. Los datos históricos están sintetizados del informe aportado y las limitaciones figuran en la cronología. No inventes edad, premios, estudios o cargo actual. No publiques el PDF de investigación ni archivos locales ajenos a esta carpeta.
+Conserva la dedicatoria y el diseño. Los datos históricos están sintetizados del informe aportado y de fuentes públicas enlazadas dentro de `content.js` y explicadas en `INVESTIGACION-PUBLICA.md`. La investigación ampliada documenta su ingreso a la carrera fiscal en 1990, su nombramiento provincial en 1994, la función de Fiscal Ad Hoc para investigaciones y procesos por terrorismo entre 1999 y 2000, la referencia periodística como fiscal antiterrorismo en 2001, su reincorporación como Fiscal Provincial Titular en 2006 y su ratificación en 2007. No inventes edad, premios, estudios o cargo actual. No publiques el PDF de investigación ni archivos locales ajenos a esta carpeta.
 
 El usuario preparó este encargo para pasarlo a otra sesión. Esta entrega local todavía no está publicada.
